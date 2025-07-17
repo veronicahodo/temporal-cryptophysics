@@ -29,10 +29,10 @@ By anchoring time itself into a **signed, append-only ledger** — the [HodeauxL
 
 ## 🔭 The Core Concepts
 
--   **Genesis Time (GT)** — A sidereal-clock-based timestamping system with 1000 base-10 `marks` per planetary rotation ("Turn"), encoded as floats. Example: `GT[0.05.12@400]`
--   **The Ledger as Time Crystal** — A structure where the _entire record of time is immutable, transparent, and reproducible_
+-   **[Genesis Time (GT)](genesis-clock.md)** — A sidereal-clock-based timestamping system with 1000 base-10 `marks` per planetary rotation ("Turn"), encoded as floats. Example: `GT[322.450]`
+-   **[The Ledger as Time Crystal](ledger-as-time-crystal.md)** — A structure where the _entire record of time is immutable, transparent, and reproducible_
 -   **R⬢ Protocol** — A signed transport and addressing layer for records, scopes, and identities
--   **SelfID** — A sovereign identity architecture layered into the timeline
+-   **[SelfID](selfid.md)** — A sovereign identity architecture layered into the timeline
 -   **VeroScope** — An emerging AI layer to interpret, verify, and simulate from the ledger itself
 
 ---
