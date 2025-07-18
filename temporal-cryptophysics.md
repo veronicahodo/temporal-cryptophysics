@@ -92,9 +92,9 @@ It simply shows they were never trustworthy to begin with.
 This document is just the beginning. Related components:
 
 -   [ledger-as-time-crystal.md](ledger-as-time-crystal.md) — deeper analysis of the ledger structure
--   `genesis-clock.md` — full GT format spec and float math
--   `sample-records.md` — signed examples across scopes
--   `tc-faq.md` — questions for scientists, skeptics, and society
+-   [genesis-clock.md](genesis-clock.md) — full GT format spec and float math
+-   [sample-records.md](sample-records.md) — signed examples across scopes
+-   [tc-faq.md](tc-faq.md) — questions for scientists, skeptics, and society
 
 ---
 

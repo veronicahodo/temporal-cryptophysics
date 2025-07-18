@@ -143,4 +143,5 @@ It is signed. It is fixed. It is **truth.**
 
 -   [temporal-cryptophysics.md](temporal-cryptophysics.md),
 -   [ledger-as-time-crystal.md](ledger-as-time-crystal.md),
--   `sample-records.md`
+-   [sample-records.md](sample-records.md)
+-   [tc-faq.md](tc-faq.md)
