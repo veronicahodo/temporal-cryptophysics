@@ -1,6 +1,6 @@
 # Rhex Protocol: URI Format and Resolution
 
-The `R⬢://` (Rhex) protocol defines a URI scheme for referencing records, scopes, and transport endpoints within the HodeauxLedger system. It serves as the address space and discovery mechanism for all verifiable truth in Temporal Cryptophysics.
+The `R⬢://` (Rhex) protocol defines a URI scheme for referencing records, scopes, and transport endpoints within the Trust Architecture system. It serves as the address space and discovery mechanism for all verifiable truth in Temporal Cryptophysics.
 
 ---
 

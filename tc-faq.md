@@ -1,6 +1,6 @@
 # Temporal Cryptophysics FAQ
 
-A collection of frequently asked questions about the Temporal Cryptophysics model, HodeauxLedger, and the philosophies and technologies surrounding it.
+A collection of frequently asked questions about the Temporal Cryptophysics model, Trust Architecture, and the philosophies and technologies surrounding it.
 
 ---
 
@@ -10,9 +10,9 @@ Temporal Cryptophysics is the fusion of timekeeping and cryptographic truth. It 
 
 ---
 
-### ❓ What is HodeauxLedger?
+### ❓ What is Trust Architecture?
 
-HodeauxLedger is the cryptographically signed, append-only, scope-based ledger that powers Temporal Cryptophysics. It anchors records in both **space (scope)** and **time (Genesis Time)** with verifiable digital signatures.
+Trust Architecture is the cryptographically signed, append-only, scope-based ledger that powers Temporal Cryptophysics. It anchors records in both **space (scope)** and **time (Genesis Time)** with verifiable digital signatures.
 
 ---
 

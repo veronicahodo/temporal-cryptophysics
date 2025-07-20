@@ -1,6 +1,6 @@
 # Genesis Clock Specification
 
-**Genesis Time (GT)** is the temporal framework of the HodeauxLedger, offering a universal, cryptographically provable time structure derived from sidereal planetary rotation. It establishes a fixed point in time at `GT[0.00.00@000.000]` and provides both a machine-optimized float format and a human-friendly canonical form.
+**Genesis Time (GT)** is the temporal framework of the Trust Architecture, offering a universal, cryptographically provable time structure derived from sidereal planetary rotation. It establishes a fixed point in time at `GT[0.00.00@000.000]` and provides both a machine-optimized float format and a human-friendly canonical form.
 
 ---
 
@@ -130,7 +130,7 @@ Genesis starts at:
 GT[0.00.00@000.000]
 ```
 
-This is the **origin point** of all time in the HodeauxLedger.
+This is the **origin point** of all time in the Trust Architecture.
 Every record inherits its temporal lineage from this moment.
 It is signed. It is fixed. It is **truth.**
 

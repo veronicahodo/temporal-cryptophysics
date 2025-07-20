@@ -2,7 +2,7 @@
 
 **Temporal Cryptophysics** (TC) is a new scientific discipline that defines time as an immutable, cryptographically provable continuum. It combines principles from distributed systems, ledger theory, and physical measurement into a new architecture of **truth, continuity, and causality**.
 
-This document breaks down the core principles, design philosophy, and implications of TC, as anchored by the **HodeauxLedger** and its origin timestamp: `R⬢:///genesis`.
+This document breaks down the core principles, design philosophy, and implications of TC, as anchored by the **Trust Architecture** and its origin timestamp: `R⬢:///genesis`.
 
 ---
 
@@ -39,7 +39,7 @@ Time becomes **measurable, canonical, and verifiable** — regardless of timezon
 
 ## 3. 📃 The Ledger as Time Crystal
 
-The HodeauxLedger is not just a data structure.
+The Trust Architecture is not just a data structure.
 It is a **time crystal**:
 
 -   **Immutable**: Records cannot be altered once signed

@@ -8,7 +8,7 @@ It is for the wanderers, the rebels, the misfits who know deep down that somethi
 
 ## Why This Was Done
 
-We created Temporal Cryptophysics and the HodeauxLedger not to merely record time—but to reclaim it.
+We created Temporal Cryptophysics and the Trust Architecture not to merely record time—but to reclaim it.
 
 For too long, time has served systems of control. Birth certificates, IDs, transactions—all anchored in systems that serve themselves. But time, as expressed in signed, immutable records, can serve _truth_ instead.
 

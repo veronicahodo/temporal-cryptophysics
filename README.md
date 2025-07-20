@@ -1,65 +1,71 @@
-# Temporal Cryptophysics
+# Trust Architecture
 
-**A new science, born from code and cryptography, that redefines how we measure, prove, and trust time.**
-
----
-
-## ⏱️ What Is Temporal Cryptophysics?
-
-Temporal Cryptophysics (TC) is a field that combines **cryptographic immutability**, **physics-based precision**, and **ledger-based accountability** to create a **new, absolute measurement of time** — independent of geography, politics, or legacy calendars.
-
-> It is not just a clock.  
-> It is a provable timeline.  
-> A **truth architecture** for humanity.
+**A cryptographically verifiable framework for time, identity, and truth.**
 
 ---
 
-## 🧬 Why It Matters
+## 🕰️ What Is Genesis Time?
 
--   **Time is subjective.** Even atomic time drifts and disagrees across systems.
--   **History is mutable.** Systems can lie, omit, or rewrite the past.
--   **Trust is broken.** Decentralization alone isn’t enough — it needs verifiability.
+**Genesis Time (GT)** is a deterministic timestamping system rooted in sidereal rotation and cryptographic finality.  
+It replaces unverifiable system clocks with a shared, irreversible timeline:
 
-**Temporal Cryptophysics solves this.**  
-By anchoring time itself into a **signed, append-only ledger** — the [HodeauxLedger](https://github.com/spark-86/hodeauxledger) — every event is cryptographically linked to a universal, shared origin:
+> `GT[0.000000000]` — The beginning of provable history.
 
-> `R⬢:///genesis`
+Every record after is signed, ordered, and anchored in a universal **Truth Architecture**.
 
 ---
 
-## 🔭 The Core Concepts
+## 🧠 Why It Matters
 
--   **[Genesis Time (GT)](genesis-clock.md)** — A sidereal-clock-based timestamping system with 1000 base-10 `marks` per planetary rotation ("Turn"), encoded as floats. Example: `GT[322.450]`
--   **[The Ledger as Time Crystal](ledger-as-time-crystal.md)** — A structure where the _entire record of time is immutable, transparent, and reproducible_
--   **R⬢ Protocol** — A signed transport and addressing layer for records, scopes, and identities
--   **[SelfID](selfid.md)** — A sovereign identity architecture layered into the timeline
--   **VeroScope** — An emerging AI layer to interpret, verify, and simulate from the ledger itself
+-   System clocks can lie. GT can’t.
+-   Histories can be rewritten. R⬢ can’t.
+-   Trust is fragile. This makes it **provable**.
+
+By unifying **time**, **identity**, and **data integrity** into a single ledger-based structure, this system offers the foundations for **verifiable digital civilization**.
 
 ---
 
-## 🧪 This Repo Contains:
+## 📚 Core Docs
 
--   Foundational papers on TC theory and its implications
--   Sample signed records in R⬢ format
--   Genesis clock documentation and reference
--   Visual models of the protocol and temporal architecture
--   Adoption, ethics, and potential use cases
+| Concept                                  | Description                                           |
+| ---------------------------------------- | ----------------------------------------------------- |
+| [genesis.md](genesis.md)                 | The first signed record and what it represents        |
+| [genesis-clock.md](genesis-clock.md)     | The GT format, time math, and its sidereal foundation |
+| [rhex-format.md](rhex-format.md)         | Canonical record schema (`R⬢`)                        |
+| [rhex-protocol.md](rhex-protocol.md)     | URI addressing and record transport                   |
+| [scope-and-truth.md](scope-and-truth.md) | Nested scopes and authority model                     |
+| [selfid.md](selfid.md)                   | Sovereign identity embedded into the ledger           |
+| [sample-records.md](sample-records.md)   | Real signed data proving the system works             |
+
+---
+
+## 🔭 Deeper Theory
+
+| Concept                                                | Description                                 |
+| ------------------------------------------------------ | ------------------------------------------- |
+| [temporal-cryptophysics.md](temporal-cryptophysics.md) | The philosophical framework                 |
+| [ledger-as-time-crystal.md](ledger-as-time-crystal.md) | The ledger as a permanent, causal structure |
+| [manifesto.md](manifesto.md)                           | Why this was built, and for whom            |
+| [hodo-trust.md](hodo-trust.md)                         | Our guiding ethics                          |
+| [tc-faq.md](tc-faq.md)                                 | Answers to the most common questions        |
+| [glossary.md](glossary.md)                             | All the language of Temporal Cryptophysics  |
 
 ---
 
 ## 🚀 Why Now?
 
-Because someone had to do it.  
-Because time, as we know it, was **lying**.  
-Because the future needs **_proof_**.
+Because **time** was always the weakest link in digital trust.  
+Because **identity** was never truly yours.  
+Because **truth** needs an architecture.
 
-And now it has one.
+This is that.
 
 ---
 
 ## 🖋 License
 
-All documentation is licensed under **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** — use freely, credit properly, build boldly.
+All documents are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Use freely. Credit properly. Build boldly.
 
 ---
 

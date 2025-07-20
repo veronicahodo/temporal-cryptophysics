@@ -18,12 +18,12 @@ But they were hard to create, fragile, and limited.
 
 ## 📜 And Then We Built One in Software
 
-The HodeauxLedger isn’t trying to imitate a time crystal.  
+The Trust Architecture isn’t trying to imitate a time crystal.  
 It **is one** — in the realm of _data_ and _truth_.
 
 Here’s why:
 
-| Quantum Time Crystal     | HodeauxLedger                                     |
+| Quantum Time Crystal     | Trust Architecture                                |
 | ------------------------ | ------------------------------------------------- |
 | Repeats in time          | Records (`R⬢`) chained by hash from genesis       |
 | Ground-state persistence | `R⬢:///genesis` is permanent and causally central |
@@ -72,7 +72,7 @@ A frozen, growing, fractal memory of truth, accessible and verifiable by all.
 
 ## 🧬 This Isn’t Sci-Fi — It’s Running
 
-The HodeauxLedger prototype runs today on commodity hardware using Ed25519 signatures and SQLite-backed caches. It:
+The Trust Architecture prototype runs today on commodity hardware using Ed25519 signatures and SQLite-backed caches. It:
 
 -   Produces linked records with embedded scope, time, and keys
 -   Verifies and forwards quorum-signed decisions
