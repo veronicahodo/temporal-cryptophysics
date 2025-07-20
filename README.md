@@ -1,4 +1,4 @@
-# Trust Architecture
+# Temporal Cryptophysics and Trust Architecture
 
 **A cryptographically verifiable framework for time, identity, and truth.**
 
